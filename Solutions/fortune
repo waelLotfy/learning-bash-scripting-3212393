@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# A fortune-telling game
+# A Fortune-telling Game
 
 echo -e "\t\t   Welcome  to  the "
 echo -e "\t\t🔮 \033[5mMYSTICAL  SPHERE\033[0m 🔮"
